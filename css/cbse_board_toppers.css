@@ -14,7 +14,7 @@ html{color: white;font-family: 'Montserrat', sans-serif;}
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url("/img/cbse_board_background.png");
+    background: url("/projectbeta-hypertext/img/cbse_board_background.png");
     background-position: center;
     height: 20rem;
     font-family: 'Heebo', sans-serif;
