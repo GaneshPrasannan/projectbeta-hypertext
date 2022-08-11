@@ -24,7 +24,7 @@ My Github: https://github.com/GaneshPrasannan/
 }
 
 body{
-    background: url("projectbeta-hypertext/img/bg1.jpg");
+    background: url("/projectbeta-hypertext/img/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
