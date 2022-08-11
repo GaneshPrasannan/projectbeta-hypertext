@@ -11,8 +11,8 @@ My Github: https://github.com/GaneshPrasannan/
 
 
 /* Font Imports */
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Montserrat:wght@500&family=Tiro+Gurmukhi&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.comcss2?family=Bree+Serif&family=Montserrat:wght@500&family=Tiro+Gurmukhi&display=swap');
+@import url('https://fonts.googleapis.comcss2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 
 
@@ -24,7 +24,7 @@ My Github: https://github.com/GaneshPrasannan/
 }
 
 body{
-    background: url("/img/bg1.jpg");
+    background: url("img/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }

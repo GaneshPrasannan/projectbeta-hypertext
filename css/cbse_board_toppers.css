@@ -5,7 +5,7 @@ CBSE Board Exam Toppers
 */
 
 /* Imports */
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.comcss2?family=Heebo:wght@500&family=Montserrat&display=swap');
 
 html{color: white;font-family: 'Montserrat', sans-serif;}
 
@@ -14,7 +14,7 @@ html{color: white;font-family: 'Montserrat', sans-serif;}
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url("/img/cbse_board_background.png");
+    background: url("img/cbse_board_background.png");
     background-position: center;
     height: 20rem;
     font-family: 'Heebo', sans-serif;
